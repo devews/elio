@@ -1,0 +1,6 @@
+{
+  "name": "ELIO — Minimalist 3D App Hub & Quick Access Directory",
+  "description": "A luxury minimalist portal featuring Spotify, YouTube, Discord, Pinterest, Netflix, Figma, and more with 3D animation, scroll spotlight showcase, and responsive grid access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
